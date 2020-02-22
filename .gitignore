@@ -1,0 +1,9 @@
+.DS_Store
+DEBUG
+/DEBUG
+.vs
+*.csv
+*.zip
+Price Generator Simulator.vcxproj
+Price Generator Simulator.vcxproj.filters
+Price Generator Simulator.vcxproj.user
